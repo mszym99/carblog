@@ -1,4 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'carblog'
+theme= 'ananke'
+
 
